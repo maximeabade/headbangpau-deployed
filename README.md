@@ -8,7 +8,7 @@ Rendez-vous sur votre navigateur et tapez l'adresse suivante:
 ```maximeabade.fr```
 
 ## DESCRIPTION ##
-Ce site permet l'affichage et la vente de produits de musique en ligne. Il est possible de se connecter et se déconnecter, d'envoyer un message grâce au formulaire de contact. 
+Ce site permet l'affichage et la vente d'instruments de musique en ligne. Il est possible de se connecter et se déconnecter, d'envoyer un message grâce au formulaire de contact.(ET OUI, LE SERVEUR MAIL FONCTIONNE, CHECK YOUR SPAMS!) De plus, a été fait un faux terminal de paiement dans lequel vous avez le choix d'accepter ou de refuser le paiement. Enfin, un admin peut voir les stocks en temps réel.
 
 ## USERS ##
 Chaque user a un username, un mdp et un statut boolean (admin ou non).
@@ -18,5 +18,5 @@ ehsan - ehsan123
 max - max123
 bde - bde123
 
-## UPDATES FAITS##
-Seul l'admin peut voir les stocks en temps réel.
+## UPDATES 2 COME##
+-up 2 date
