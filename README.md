@@ -5,7 +5,7 @@ Sur Windows/Mac: MAMP/WAMP <br>
 Sur Linux: apache2 dans le dossier ./var/www/html
 ### ACCES HTTP ###
 Rendez-vous sur votre navigateur et tapez l'adresse suivante:
-```maximeabade.fr```
+```headbangpau.maximeabade.fr```
 
 ## DESCRIPTION ##
 Ce site permet l'affichage et la vente d'instruments de musique en ligne. Il est possible de se connecter et se déconnecter, d'envoyer un message grâce au formulaire de contact.(ET OUI, LE SERVEUR MAIL FONCTIONNE, CHECK YOUR SPAMS!) De plus, a été fait un faux terminal de paiement dans lequel vous avez le choix d'accepter ou de refuser le paiement. Enfin, un admin peut voir les stocks en temps réel.
